@@ -1,0 +1,2 @@
+# myProject
+Simple Python app
